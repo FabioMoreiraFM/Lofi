@@ -11,3 +11,7 @@ Cada pasta é um serviço separado (backend e frontend). Para configurar cada am
 # Script de teste
 
 O arquivo "script artigos teste.sql" é um script para popular a tabela de artigos. 
+
+# Banco de dados
+
+PostgreSQL. Para configuração do banco, acesse o arquivo knexfile.js no serviço backend e faça os ajustes conforme configuração do seu banco local.
