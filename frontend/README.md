@@ -1,24 +1,14 @@
 # frontend
 
-## Project setup
+## Configuração
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Execução
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Configurações customizadas
+Veja mais em [Configuration Reference](https://cli.vuejs.org/config/).
